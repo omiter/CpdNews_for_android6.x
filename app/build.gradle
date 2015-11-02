@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.s21v.cpdnews_for_android6x"
-        minSdkVersion 23
+        minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

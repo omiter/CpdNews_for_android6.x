@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CpdNews_for_Android6.x</string>
+    <string name="dot">splash_dot</string>
+    <string name="stepout">跳过：</string>
 </resources>
